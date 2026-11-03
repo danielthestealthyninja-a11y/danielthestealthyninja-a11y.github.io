@@ -1,1 +1,1 @@
-
+#these files contain the concept from my Laser_tag_receiver found in op_amp_amplifier and turns the concept into a functional transmitter and receiver for a laser tag gun. The PCB uses real components that I first incorporated on a breadboard. Using an oscilloscope I tested my physical components to ensure that I had a realistic and working circuit that output what I expected from my simulations. Then I created the PCB using measurements based on a physical laser tag gun.
