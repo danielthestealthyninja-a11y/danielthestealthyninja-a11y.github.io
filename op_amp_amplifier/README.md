@@ -1,11 +1,1 @@
-# Inverting Op-Amp Design
-
-## Overview
-This project demonstrates an inverting operational amplifier
-and its voltage gain relationship.
-
-## Design
-[Add your project description here.]
-
-## Results
-[Add your results here.]
+# laser_tag_receiver is a design project to implement the start of a laser tag system. The receiver filters out frequencies below 1kHz and above 4kHz because the different player frequencies will be in the accepted range. The second op amp is specifically there to amplify the frequencies we want, so that the laser tag system will work at a longer range. It is not as good as it can get, so if you want the receiver to pick up signals from a further distance you will need to change the values in the main circuit with the two op amps (not the Vp/Vn circuit or the input current sources). I have learned through designing this system how to implement high-pass and low-pass filters and also how to calculate and simulate gain. The next step is to put this on a breadboard and make sure it works.
