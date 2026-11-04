@@ -1,1 +1,1 @@
-# Lab_1_design_2 is a simple op amp created with the goal of practicing gain amplification. It is an inverting op amp where the gain (A) is calculated by A = -R2/R1. The next step is implementing this concept into my laser_tag_receiver.
+
